@@ -1,0 +1,1 @@
+# codegen golang代码生成器
